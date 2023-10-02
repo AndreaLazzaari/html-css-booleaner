@@ -63,3 +63,34 @@ table{
 .width-50{
     width: 50%;
 }
+
+#titolo-footer{
+    color: gray;
+}
+
+#computer{
+    width: 300px;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-image: url(img/monitor.jpg);
+}
+
+
+#grafico{
+    width: 300px;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-image: url(img/graph.jpg);
+}
+
+.testo-img{
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    
+}
+
