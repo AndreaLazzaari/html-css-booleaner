@@ -9,3 +9,17 @@
     text-align: left;
     background-repeat: repeat;
 }
+
+#booleaner{
+    color: #00BFFF;
+
+}
+
+#titolo-pagina{
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#sotto-titolo{
+    color: grey;
+}
