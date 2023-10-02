@@ -1,0 +1,11 @@
+#logo{
+    width: 350px;
+}
+
+#contenitore-logo{
+    background-image: url(./img/pattern.png);
+    height: 150px;
+    background-color: lightskyblue;
+    text-align: left;
+    background-repeat: repeat;
+}
